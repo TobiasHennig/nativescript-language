@@ -1,0 +1,25 @@
+{
+  "name": "nativescript-language",
+  "version": "0.1.0",
+  "description": "",
+  "main": "language.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.1"
+    }
+  },
+  "keywords": [
+    "NativeScript",
+    "Language",
+    "Android"
+  ],
+  "author": "Tobias Hennig <tobias.hennig1@gmail.com> (https://github.com/TobiasHennig)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TobiasHennig/nativescript-language.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TobiasHennig/nativescript-language/issues"
+  },
+  "license": "MIT"
+}
